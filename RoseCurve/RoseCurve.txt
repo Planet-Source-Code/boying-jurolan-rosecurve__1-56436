@@ -1,0 +1,4 @@
+This program draws rose curves. The Text box indicates how many leaves are drawn. When it is even the number of curves are equal to twice that number. When it is odd the number of curves is equal to that number.
+
+email me at eingbu@yahoo.com
+or eingbuFS@yahoo.com
